@@ -11,8 +11,8 @@ Welcome to the **Statistics** section of BrainStack — a dedicated space for st
 - Inferential Statistics
 
 ### 💻 Scripts
-- `stats_basics.py` → Python examples for statistical operations
-- `probability_functions.py` → probability distributions and calculations
+- [stats_practice.ipynb](Notebooks/stats_practice.ipynb)
+- [stats_basics.py](Scripts/stats_basics.py)
 
 ### 📒 Notebooks
 - `stats_practice.ipynb` → interactive exercises and worked examples
